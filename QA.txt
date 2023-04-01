@@ -17,4 +17,4 @@ d) interpreter, executing
 View Answer
 
 Answer: a
-Explanation: The UNIX shell is both an interpreter and scripting language. We can also say that shell can be interactive or non-interactive. When we log in to our system, interactive shell presents a prompt and wait for our requests while a non-interactive shell is managed by an interactive shell whil
+Explanation: The UNIX shell is both an interpreter and scripting language. We can also say that shell can be interactive or non-interactive. When we log in to our system, interactive shell presents a prompt and wait for our requests while a non-interactive shell is managed by an interactive shell.
